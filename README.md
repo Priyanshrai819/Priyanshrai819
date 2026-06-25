@@ -14,64 +14,98 @@
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ Who Am I
 
-```python
-class PriyanshRai:
-    def __init__(self):
-        self.name        = "Priyansh Rai"
-        self.role        = "CS Student & Developer"
-        self.college     = "Vishwakarma College, Pune (SPPU)"
-        self.year        = "First Year — Computer Science"
-        self.location    = "Pune, Maharashtra 🇮🇳"
-        self.languages   = ["Python", "C", "HTML", "CSS", "JavaScript"]
-        self.frameworks  = ["Django", "Bootstrap"]
-        self.tools       = ["Git", "Razorpay", "Pabbly Connect", "VS Code"]
-        self.databases   = ["SQLite", "PostgreSQL"]
-        self.interests   = ["Web Dev", "Problem Solving", "Open Source"]
+<table>
+<tr>
+<td width="55%">
 
-    def current_focus(self):
-        return [
-            "🌱 Deepening Python & Django skills",
-            "🔧 Building full-stack web applications",
-            "💡 Integrating real-world APIs (Razorpay, Pabbly)",
-            "📚 Learning C & Digital Electronics (SPPU)",
-        ]
+```javascript
+const priyansh = {
+  name    : "Priyansh Rai",
+  alias   : "Priyanshrai819",
+  role    : "Full Stack Developer (in the making)",
+  college : "Vishwakarma College of Engineering, Pune",
+  uni     : "Savitribai Phule Pune University (SPPU)",
+  year    : "First Year — Computer Science",
+  city    : "Pune, Maharashtra 🇮🇳",
 
-    def fun_fact(self):
-        return "I build tools I actually want to use 🛠️"
+  stack: {
+    languages    : ["Python", "C", "C++", "JavaScript", "HTML5", "CSS3"],
+    ai_ml        : ["OCI AI", "Machine Learning", "Deep Learning", "Gen AI"],
+    backend      : ["Django", "Django Allauth", "Flask", "REST APIs"],
+    frontend     : ["Bootstrap", "Tailwind CSS", "Vanilla JS"],
+    databases    : ["PostgreSQL", "SQLite", "SQL", "Pandas"],
+    dataTools    : ["Data Manipulation", "Web Scraping"],
+    devtools     : ["Git", "GitHub", "VS Code", "Figma"],
+    integrations : ["Razorpay", "Pabbly Connect"],
+    certifications: ["Oracle OCI AI Foundations", "Python Bootcamp (Udemy)",
+                     "SQL & Data Manipulation", "C++ (Google)"],
+  },
 
-me = PriyanshRai()
+  currentlyBuilding : "theHelper — service marketplace",
+  openToWork        : true,
+  availableFor      : ["Internships", "Collabs", "Open Source"],
+
+  motto: "Ship it. Learn from it. Repeat. 🔁",
+};
 ```
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshrai819&theme=tokyo-night&bg_color=0D1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-
-**Languages**
-
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-**Frameworks & Tools**
-
-[![Django](https://skillicons.dev/icons?i=django)](https://djangoproject.com)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-
-**Databases**
-
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
-
+**🖥️ Languages**
+ 
+[![Languages](https://skillicons.dev/icons?i=python,c,cpp,js,html,css)](https://skillicons.dev)
+ 
+**⚙️ Backend & Frameworks**
+ 
+[![Backend](https://skillicons.dev/icons?i=django,flask,bootstrap,tailwind)](https://skillicons.dev)
+ 
+**🗄️ Databases & Data**
+ 
+[![Databases](https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb)](https://skillicons.dev)
+ 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-239120?style=for-the-badge&logo=python&logoColor=white)
+ 
+**🤖 AI / ML & Cloud**
+ 
+![Oracle OCI](https://img.shields.io/badge/Oracle_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+ 
+**🔧 Dev Tools & Design**
+ 
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman)](https://skillicons.dev)
+ 
+**💳 Integrations, Automation and workflow **
+ 
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+![Pabbly Connect](https://img.shields.io/badge/Pabbly_Connect-FF4800?style=for-the-badge&logo=zapier&logoColor=white)
+ 
+**🏅 Certifications**
+ 
+![Oracle](https://img.shields.io/badge/OCI_AI_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Udemy Python](https://img.shields.io/badge/Complete_Python_Bootcamp-A435F0?style=flat-square&logo=udemy&logoColor=white)
+![SQL & Pandas](https://img.shields.io/badge/SQL_%26_Data_Manipulation-150458?style=flat-square&logo=pandas&logoColor=white)
+![C++ Google](https://img.shields.io/badge/C%2B%2B_(Google)-4285F4?style=flat-square&logo=google&logoColor=white)
+ 
 </div>
+
 
 ---
 
@@ -132,7 +166,7 @@ me = PriyanshRai()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshrai-india)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanshrai819)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshhrai819@gmail.com)
 
 </div>
 
