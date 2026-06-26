@@ -67,7 +67,7 @@ const priyansh = {
 <div align="center">
 **🖥️ Languages**
  
-[![Languages](https://skillicons.dev/icons?i=python,c,cpp,js,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,c,cpp,r,dart,js,html,css,php)](https://skillicons.dev)
  
 **⚙️ Backend & Frameworks**
  
@@ -75,13 +75,15 @@ const priyansh = {
  
 **🗄️ Databases & Data**
  
-[![Databases](https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb,firebase)](https://skillicons.dev)
  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-239120?style=for-the-badge&logo=python&logoColor=white)
  
 **🤖 AI / ML & Cloud**
+
+[![Cloud](https://skillicons.dev/icons?i=cloudflare,gcp)](https://skillicons.dev)
  
 ![Oracle OCI](https://img.shields.io/badge/Oracle_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -90,19 +92,22 @@ const priyansh = {
  
 **🔧 Dev Tools & Design**
  
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,flutter,anaconda,arduino,vscode,figma,pycharm,sublime)](https://skillicons.dev)
  
 **💳 Integrations, Automation and workflow **
  
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
-![Pabbly Connect](https://img.shields.io/badge/Pabbly_Connect-FF4800?style=for-the-badge&logo=zapier&logoColor=white)
+![Pabbly Connect](https://img.shields.io/badge/Pabbly_Connect-FF4800?style=for-the-badge&logo=pabbly&logoColor=white)
+![Make.com](https://img.shields.io/badge/make.com-02042B?style=for-the-badge&logo=make&logoColor=3395FF)
+![n8n](https://img.shields.io/badge/n8n-FF4800?style=for-the-badge&logo=n8n&logoColor=white)
+
  
 **🏅 Certifications**
  
-![Oracle](https://img.shields.io/badge/OCI_AI_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Udemy Python](https://img.shields.io/badge/Complete_Python_Bootcamp-A435F0?style=flat-square&logo=udemy&logoColor=white)
-![SQL & Pandas](https://img.shields.io/badge/SQL_%26_Data_Manipulation-150458?style=flat-square&logo=pandas&logoColor=white)
-![C++ Google](https://img.shields.io/badge/C%2B%2B_(Google)-4285F4?style=flat-square&logo=google&logoColor=white)
+[![Oracle](https://img.shields.io/badge/OCI_AI_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B18EE199DFE482FB0D20BDD3EFF6F9A57134CBFEF71C2AEB40C7665BC7702E64)
+[![Udemy Python](https://img.shields.io/badge/Complete_Python_Bootcamp-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-bfd6f738-9b8a-4c5a-bbe3-21a4251e11a7/)
+[![SQL & Pandas](https://img.shields.io/badge/SQL_%26_Data_Manipulation-150458?style=flat-square&logo=pandas&logoColor=white)](https://www.hackerrank.com/certificates/5acd80e407ff)
+[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4285F4?style=flat-square&logo=puzzle&logoColor=white)](https://www.hackerrank.com/certificates/d27e275e380e)
  
 </div>
 
@@ -144,8 +149,8 @@ const priyansh = {
 ## 🌱 Currently Learning
 
 - 🐍 Advanced **Django** — REST APIs, Authentication, ORM
-- ⚡ **C Programming** — Pointers, Memory, Data Structures
-- 🔌 **Digital Electronics** — Logic gates, circuits, microcontrollers
+- ⚡ **Java Programming** — Adv Java ,Frameworks
+- 🔌 **Digital Electronics** — Circuits, Microcontrollers
 - 🌐 Exploring **JavaScript** deeper for frontend interactivity
 
 ---
